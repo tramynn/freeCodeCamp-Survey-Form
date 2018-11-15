@@ -1,0 +1,220 @@
+/*****
+COLOR PALETTE
+- Dark to Light
+#631762 / #a1259f
+#C821C6 /#e353e1
+*****
+
+
+.bg {
+	background-image: url('http://i63.tinypic.com/dqq7aa.jpg');
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    max-width: 100%;
+}
+
+
+/***** FLEXBOX *****/
+body, html {
+	height: 100%;
+	margin: 0;
+}
+
+.container {
+	display: flex;
+	display: -webkit-flex;
+	flex-direction: column;
+	-webkit-flex-direction: column;
+	justify-content: center;
+	-webkit-justify-content: center;
+	align-items: center;
+	-webkit-align-items: center;
+}
+
+.itemone {
+	align-items: center;
+	background-image: url('');
+	background-attachment: fixed;
+	background-repeat: none;
+	color: #fff;
+	width: 80vw;
+	margin-top: 30px;
+}
+
+.itemtwo {
+	align-items: center;
+	background-color: #fff;
+	width: 80vw;
+	margin: 30px;
+	text-align: left;
+	border-radius: 2px;
+	box-shadow: 0px 0px 20px #494a49;
+}
+
+.itemthree {
+	align-items: center;
+	color: white;
+	font-size: 2vw;
+	width: 80vw;
+	margin-bottom: 15px;
+}
+
+#sectionone {
+	margin: 15px;
+}
+
+#sectiontwo {
+	margin: 15px;
+}
+
+
+#sectionthree {
+	margin: 15px;
+	text-align: center;
+}
+/***** BASIC *****/
+
+body {
+	background-image: linear-gradient(to right, #631762, #C821C6);
+	text-align: center;
+	line-height: 1.5rem;
+}
+
+h1 {
+	font-family: Ubuntu;
+	font-size: 7vw;
+	line-height: 3.5rem;
+	text-align: left;
+	margin-top: 100px;
+	margin-bottom: -20px;
+}
+
+#description {
+	text-align: left;
+
+}
+
+h2 {
+	color: #43174c;
+	text-align: left;
+}
+
+h3 {
+
+}
+
+p {
+	font-family: Roboto;
+}
+
+ul {
+	list-style: none;
+	margin-left: -40px;
+}
+
+/***** FORM *****/
+
+form {
+	font-family: Roboto;
+}
+
+select {
+	width: 40vw;
+}
+
+button {
+  width : 40vw;
+  margin: 0;
+  -webkit-box-sizing: border-box; /* For legacy WebKit based browsers */
+     -moz-box-sizing: border-box; /* For legacy (Firefox <29) Gecko based browsers */
+          box-sizing: border-box;
+}
+
+input {
+	margin: 0 auto;
+}
+
+textarea {
+	height: 60px;
+}
+
+#submit {
+  color: #FFFFFF;
+  border: none;
+  background-color: #C821C6;
+  background-image: ;
+  border-radius: 2px;
+  font-family: Roboto;
+  font-size: 1em;
+  font-weight: 300;
+  letter-spacing: .03em;
+  text-align: center;
+  padding: 5px 10px;
+  box-shadow: 0px 0px 5px #7b7c7b;
+  width: 150px;
+  height: 40px;
+}
+#submit:hover {
+  color: #222222;
+  font-family: Roboto;
+  font-size: 1em;
+  letter-spacing: .03em;
+  font-weight: 300px;
+  background-color: #FFF;
+  box-shadow: 0px 0px 5px #7b7c7b;
+  text-decoration: none;
+}
+
+/***** BUTTONS *****/
+
+
+#text {
+
+}
+
+#email {
+
+}
+
+#age {
+
+}
+
+#select {
+
+}
+
+#option {
+
+}
+
+#textarea {
+
+}
+
+#radio {
+
+}
+
+#checkbox {
+	
+}
+
+
+
+
+
+/***** COIN *****/
+#coin {
+	font-size: 7.5vw;
+	text-align: left;
+}
+/***** FOOTER ******/
+
+footer {
+	font-family: Roboto;
+}
+
