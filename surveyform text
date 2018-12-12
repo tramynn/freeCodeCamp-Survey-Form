@@ -1,0 +1,180 @@
+* Experiment: A study undertaken in which the researcher has control over some of the conditions of the study.
+    * Control of
+        * People, action, observation AND environment
+* 1) Keeping the time order right
+    * ex) Amount of newspaper reading —> Amount of political knowledge
+* 2) Keeping out spurious effects
+* 3) Manipulating your actions
+* General Rules
+    1. Who
+        * Usually small group
+    2. Aim
+        * Test theory: causality 
+    3. Instrument
+        * Several (questionnaire, but also other tasks)
+    4. Observation
+        * Respondent is often not aware (Knows only a bit)
+    5. Analysis
+        * Statistics (Compare before/after)
+
+
+* General features
+    * Large-scale sampliing
+    * Systematic procedures
+    * Quantitative data analysis
+
+
+What do I want to know about the cryptocurrency and blockchain sphere?
+
+Correlation between investment 
+
+variable x = Investment in crypto (type/ top 5 or alt)
+variable y = Use cases (how many )
+
+
+Cryptocurrency and Blockchain 
+
+We want to hear about your opinion on cryptocurrency. A cryptocurrency is a digital asset designed to work as a medium of exchange that uses strong crytography
+
+Tell us a little about yourself:
+// <fieldset>
+*Name: (Enter your full name)
+*Email:(Enter your email)
+*Age: (Enter your age)
+*Gender: (Enter your gender)
+*Ethnic Origin: Please specify your ethnicity
+// <select>
+	White
+	Hispanic or Latino
+	Black or African American
+	Native American or American Indian
+	Asian / Pacific Islander
+	Other: (Please specify)
+
+*Education: What is the highest degree or level of school you have completed? <em>If currently, enrolled, highest degree received<em>
+// <select>
+	No schooling completed
+	Nursery school to 8th grade
+	Some high school, no diploma
+	High school graduate, diploma or the equivalent (for example: GED)
+	Some college credit, no degree
+	Trade/technical/vocational training
+	Associate degree (e.g. AA, AS)
+	Bachelor’s degree (e.g. BA, BS)
+	Master’s degree (e.g. MA, MS, MEd)
+	Professional degree (e.g. MD, DDS, DVM)
+	Doctorate degree (e.g. PhD, EdD)
+
+*Employment Status: What is your current employment status?
+//
+	Employed full time (40 or more hours per week)
+	Employed part time (up to 39 hours per week)
+	Self-employed
+	Unemployed and currently looking for work
+	Unemployed but not currently looking for work
+	A homemaker
+	A student
+	Military
+	Retired
+	Unable to work
+
+Q1
+How much, if at all, do you know about cryptocurrency?
+
+A
+// <select>
+Expert (recognized authority)
+Advanced (applied theory)
+Intermediate (practical application)
+Novice (limited experience)
+Fundamental Awareness (Basic knowledge)
+N/A
+
+
+Q2 Do you own cryptocurrency?
+
+A 
+// <radio>
+Yes
+No
+
+Q3 If yes, what type of cryptocurrency do you own? (Select all that apply)
+
+A.
+1. Bitcoin
+2. Altcoin
+3. Tokens/dApps
+
+
+Q4 If no, how likely are you to invest in cryptocurrency this year?
+
+A
+// <select>
+Extremely likely
+Very likely
+Somewhat likely
+Not so likely
+Not at all likely
+
+Q5 How much, if at all, do you know about blockchain technology?
+
+A
+// <select>
+Expert (recognized authority)
+Advanced (applied theory)
+Intermediate (practical application)
+Novice (limited experience)
+Fundamental Awareness (Basic knowledge)
+N/A
+
+
+Q6 What type of Blockchain do you prefer? Select all that apply.
+
+A
+// <select>
+Public Blockchain (e.g. Bitcoin, Litecoin)
+Private Blockchain (e.g. Bankchain)
+Consortium or Federated Blockchain (e.g. r3, EWF)
+
+
+Q7 What applications of blockchain technology do you see the most?
+
+A
+// <select>
+As a system of record (e.g. digital identity, tokenization, etc)
+As a platform (e.g. smart contracting, automated governance, etc)
+
+
+Q8
+
+
+Q7 Any Comments or Suggestions?
+
+// <textarea>
+
+<button>
+SUBMIT
+
+
+
+Lastly:
+
+Applications and Use Cases
+1. As a system of record ->
+	Digital Identity
+	Tokenization
+	Inter-organizaional data management
+	For governments:
+	For financial institutions:
+	For audit trails
+2. As a platform 
+	For smart contracting
+	For automated governance
+	For markets
+	For streamliining of clearing and settlement
+	For automating regulatory compliance
+
+Conclusion: 
+- Secure digital relationships that were impossible before
+- Data is being disclosed differently, secured differently, and recordered differently
+- Changing digital relationships, creating the abiolity for them to be automated in code via smart contracts
