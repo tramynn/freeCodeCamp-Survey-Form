@@ -25,7 +25,7 @@
 	</div>
 
 	<div class="itemtwo-description">
-		<p id="header-description">We want to hear about your opinion on cryptocurrency and blockchain technology. A cryptocurrency is a digital asset designed to work as a medium of exchange that uses strong crytography. Blockchain technology is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value.</p>
+		<p id="description">We want to hear about your opinion on cryptocurrency and blockchain technology. A cryptocurrency is a digital asset designed to work as a medium of exchange that uses strong crytography. Blockchain technology is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value.</p>
 	</div>
 
 	<div class="itemthree-main"><!-- START FORM -->
@@ -33,20 +33,20 @@
 			<div class="row">
 			<table>
 				<tr>
-					<td class="left-column"><label id="name">*Name:</label></td>
-		      		<td class="right-column"><input type="text" id="name-label" name="demographics" placeholder="Enter your full name" required></td></tr>
+					<td class="left-column"><label id="name-label" for="name">*Name:</label></td>
+		      		<td class="right-column"><input type="text" id="name" name="demographics" placeholder="Enter your full name" required></td></tr>
 				<tr>
-					<td class="left-column"><label id="email">*Email:</label></td>
-	      			<td class="right-column"><input type="email" id="email-label" name="demographics" placeholder="Enter your email" required></td></tr>
+					<td class="left-column"><label id="email-label" for="email">*Email:</label></td>
+	      			<td class="right-column"><input type="email" id="email" name="demographics" placeholder="bitcoin@example.com" pattern=".+@blockchainbb.com" minlength="5" maxlength="64" required></td></tr>
 				<tr>
-					<td class="left-column"><label id="name">*Age:</label></td>
-					<td class="right-column"><input type="number" name="demographics" value="age" placeholder="Enter your age" required></td></tr>
+					<td class="left-column"><label id="number-label" for="number">*Age:</label></td>
+					<td class="right-column"><input type="number" id="number" name="demographics" value="age" min="10" max="100" placeholder="Enter your age" required></td></tr>
 				<tr>
-					<td class="left-column"><label id="gender">*Gender:</label></td>
-					<td class="right-column"><input type="text" placeholder="Enter your gender"></td>
+					<td class="left-column"><label for="gender">*Gender:</label></td>
+					<td class="right-column"><input type="text" id="gender" placeholder="Enter your gender"></td>
 				<tr>
 					<td class="left-column"><label>*Ethnic Origin: Please specifiy your ethnicity.</label></td>
-					<td class="right-column"><select name="ethnic origin">
+					<td class="right-column"><select id="dropdown" name="ethnic origin">
 						<option value="White">White</option>
 						<option value="Hispanic or Latino">Hispanic or Latino</option>
 						<option value="Black or African American">Black or African American</option>
@@ -92,14 +92,14 @@
 						<option value="N/A">N/A</option></select></td></tr>
 				<tr>
 					<td class="left-column"><label>Do you own cryptocurrency?</label></td>
-					<td class="right-column"><input type="radio" name="" value ="yes">Yes
-						<input type="radio" name="" value ="no">No</td></tr>
+					<td class="right-column"><input type="radio" name="radio" value ="yes">Yes
+						<input type="radio" name="radio" value ="no">No</td></tr>
 				<tr>
 					<td class="left-column"><label>If yes, what type of cryptocurrency do you own? (Select all that apply)</label></td>
 	      			<div class="checkbox">
-		        		<td class="right-column"><input type="checkbox" width="10px">Bitcoin<br>
-							<input type="checkbox">Altcoin<br>
-		        			<input type="checkbox">Tokens/dApps<br></td></div></tr>
+		        		<td class="right-column"><input type="checkbox" value="checkbox" width="10px">Bitcoin<br>
+							<input type="checkbox" value="checkbox" width="10px">Altcoin<br>
+		        			<input type="checkbox" value="checkbox" width="10px">Tokens/dApps<br></td></div></tr>
 				<tr>
 					<td class="left-column"><label>If no, how likely are you to invest in cryptocurrency this year?</label></td>
 					<td class="right-column"><select name="q4">
